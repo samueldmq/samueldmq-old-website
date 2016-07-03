@@ -1,5 +1,5 @@
-name: Samuel's Website
-description: Blogging about stuffs (OpenStack)
+name: Your New Jekyll Site
+description: Blogging about stuffs
 meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
 aboutPage: true
@@ -9,14 +9,14 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://samueldmq.github.io'
+domain_name: 'http://yourblog-domain.com'
 google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://samueldmq.github.io'
-author:         'Samuel de Medeiros Queiroz'
+url:            'http://your-blog-url.example.com'
+author:         'Your Name'
 authorTwitter:  'YourTwitterUsername'
 
 permalink:       /:year/:title/
