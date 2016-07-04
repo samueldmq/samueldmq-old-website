@@ -2,6 +2,7 @@
 title:  "Hello World!"
 date:   2016-03-07 17:00:00
 description: Hello World, this is my blog!
+type: blog
 ---
 
 Blaaaa...
