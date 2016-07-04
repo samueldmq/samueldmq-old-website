@@ -23,11 +23,6 @@ permalink:       /:year/:title/
 defaults:
     -
         scope:
-            path: "posts.html"
-        values:
-            layout: default
-    -
-        scope:
             path: "" # empty string for all files
             type: pages
         values:
