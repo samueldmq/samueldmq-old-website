@@ -11,6 +11,10 @@
         <a href="{{ site.baseurl }}talks">Talks </a>
     {% endif %}
 
+    {% if page.url != "/resume/" %}
+        <a href="{{ site.baseurl }}talks">Résumé </a>
+    {% endif %}
+
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
             <a href="{{ site.baseurl }}about">About </a>
