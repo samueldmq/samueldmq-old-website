@@ -1,24 +1,14 @@
 <nav class="main-nav">
-    {% if page.url != "/" %}
-        <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Home </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}"> <span class="arrow">←</span> Home </a>
 
-    {% if page.url != "/blog/" %}
-        <a href="{{ site.baseurl }}blog">Blog </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}blog">Blog </a>
 
-    {% if page.url != "/talks/" %}
-        <a href="{{ site.baseurl }}talks">Talks </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}talks">Talks </a>
 
-    {% if page.url != "/resume/" %}
-        <a href="{{ site.baseurl }}resume">Résumé </a>
-    {% endif %}
+    <a href="{{ site.baseurl }}resume">Résumé </a>
 
-    {% if page.url != "/about/" %}
-        {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about">About </a>
-        {% endif %}
+    {% if site.aboutPage %}
+        <a href="{{ site.baseurl }}about">About </a>
     {% endif %}
     <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
 </nav>
