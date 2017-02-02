@@ -1,26 +1,16 @@
 ---
 title:  "Hello World!"
-date:   2016-03-07 17:00:00
+date:   2017-01-01 17:00:00
 description: Hello World, this is my blog!
 type: blog
 ---
 
-Blaaaa...
+<p align="justify">Hello world!</p>
 
-You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
-To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
+<p align="justify">
+This is my professional blog and I will be posting content of my interest,
+which includes free and open source software (FOSS), community building and
+OpenStack. Hopefully those topics are of your interest too!
+</p>
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll's GitHub repo][jekyll-gh].
-
-[jekyll-gh]: https://github.com/mojombo/jekyll
-[jekyll]:    http://jekyllrb.com
+<p align="center">See you!</p>
