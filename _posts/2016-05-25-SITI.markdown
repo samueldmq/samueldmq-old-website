@@ -1,7 +1,7 @@
 ---
-title:  "SITI!"
+title:  "SITI 2016"
 date:   2016-05-25 00:00:00
-description: OpenStack Introduction at SITI
+description: "Introduction to OpenStack"
 type: talk
 ---
 

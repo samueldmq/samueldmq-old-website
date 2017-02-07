@@ -1,7 +1,7 @@
 ---
-title:  "Natal!"
+title:  "UFRN Natal"
 date:   2015-11-12 00:00:00
-description: OpenStack Introduction at UFRN - Natal
+description: "Introduction to OpenStack to masters and undergraduate students"
 type: talk
 ---
 
