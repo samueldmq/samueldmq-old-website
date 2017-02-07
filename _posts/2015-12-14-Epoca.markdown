@@ -1,0 +1,8 @@
+---
+title:  "Época!"
+date:   2015-12-14 00:00:00
+description: OpenStack Introduction at Época
+type: talk
+---
+
+...

@@ -1,8 +1,0 @@
----
-title:  "UFRN!"
-date:   2016-03-07 17:00:00
-description: OpenStack talk at UFRN
-type: talk
----
-
-UFRN talk was like .....

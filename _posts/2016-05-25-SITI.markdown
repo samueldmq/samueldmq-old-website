@@ -1,0 +1,8 @@
+---
+title:  "SITI!"
+date:   2016-05-25 00:00:00
+description: OpenStack Introduction at SITI
+type: talk
+---
+
+...
