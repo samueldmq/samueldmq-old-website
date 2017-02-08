@@ -1,8 +1,8 @@
 ---
-title:  "SBRC 2016"
+title:  "SBRC"
 date:   2016-06-03 00:00:00
 description: "Cloud Computing with OpenStack"
 type: talk
 ---
 
-...
+SBRC is the Brazilian Symposium on Computer Networks and Distributed Systems.

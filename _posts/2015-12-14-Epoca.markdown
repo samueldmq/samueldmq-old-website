@@ -1,5 +1,5 @@
 ---
-title:  "Época 2015"
+title:  "Época"
 date:   2015-12-14 00:00:00
 description: "Introduction to OpenStack Hands-On Tutorial"
 type: talk
