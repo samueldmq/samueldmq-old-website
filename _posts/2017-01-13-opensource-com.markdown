@@ -26,5 +26,5 @@ onboarding of non-native speakers.
 
 <p align="justify">
 Read the full article in <a href="https://opensource.com/article/17/1/non-native-speakers-take-open-source-communities">
-opensource.com</a>
+opensource.com</a>.
 </p>
