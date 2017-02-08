@@ -5,9 +5,9 @@ profile: true
 ---
 
 <p align="justify">
-As stated in the home page, I am Samuel de Medeiros Queiroz and I am seeking
-for challenges in the free and open source world, and I also enjoy travelling
-the world talking about Open Source and OpenStack software.
+As stated in the home page, I am seeking for challenges in the free and open
+source world, and I also enjoy travelling the world talking about Open Source
+and OpenStack software.
 </p>
 
 <p align="justify">
