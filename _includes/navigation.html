@@ -5,16 +5,16 @@
         <a class="current"> Home </a>
     {% endif %}
 
-    {% if page.url != "/articles/" %}
-        <a href="{{ site.baseurl }}articles">Articles </a>
-    {% else %}
-        <a class="current">Articles </a>
-    {% endif %}
-
     {% if page.url != "/talks/" %}
         <a href="{{ site.baseurl }}talks">Talks </a>
     {% else %}
         <a class="current">Talks </a>
+    {% endif %}
+
+    {% if page.url != "/articles/" %}
+        <a href="{{ site.baseurl }}articles">Articles </a>
+    {% else %}
+        <a class="current">Articles </a>
     {% endif %}
 
     {% if page.url != "/blog/" %}
