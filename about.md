@@ -4,7 +4,11 @@ permalink: about/
 profile: true
 ---
 
-TODO(samueldmq): fix content
+<p align="justify">
+As stated in the home page, I am Samuel de Medeiros Queiroz and I am seeking
+for challenges in the free and open source world, and I also enjoy travelling
+the world talking about Open Source and OpenStack software.
+</p>
 
 <p align="justify">
 I like to work in teams in which the mission statement is clearly to make the
