@@ -5,4 +5,22 @@ description: "Cloud Computing with OpenStack"
 type: talk
 ---
 
-SBRC is the Brazilian Symposium on Computer Networks and Distributed Systems.
+<p align="justify">
+The Brazilian Symposium on Computer Networks and Distributed Systems has
+become, in its more than three decades, the most important national scientific
+event on computer networks and distributed systems.
+</p>
+
+<p align="justify">
+I was invited by professor Andrey Brito from the Federal University of Campina
+Grande to give a tutorial with him about cloud computing with OpenStack,
+showing the benefits of being an open source and modular project, making it a
+very fertile environment for innovation.
+</p>
+
+<p align="justify">
+In that tutorial, we have walked the audience through its core services up to
+others like Analytics-As-A-Service. In addition, there was a live
+demonstration of some usecases like creating a new virtual machine using an
+OpenStack cloud.
+</p>

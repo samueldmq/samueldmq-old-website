@@ -5,4 +5,15 @@ description: "Introduction to OpenStack"
 type: talk
 ---
 
-...
+<p align="justify">
+In the Week of Technology and Innovation, I gave a talk with the goal of
+educating about cloud computing and OpenStack, sharing with the audience how
+adopting a cloud solution may ease the process of launching, maintaining and
+scalating the infrastucture needed for running their apps.
+</p>
+
+<p align="justify">
+I have done a live demonstration on launching virtual machines with virtual
+networks, floating IPs, etc with an OpenStack cloud for an audience of
+approximately 50 people.
+</p>

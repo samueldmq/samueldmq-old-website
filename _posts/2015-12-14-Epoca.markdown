@@ -5,4 +5,21 @@ description: "Introduction to OpenStack Hands-On Tutorial"
 type: talk
 ---
 
-...
+<p align="justify">
+The School of Computing and its Applications of Rio Grande do Norte is a
+conference that aims to promote technological innovation in that state.
+The theme of that edition was "STARTUPS - A new business model for
+computing".
+</p>
+
+<p align="justify">
+I gave a hands-on tutorial on cloud computing with OpenStack, with the
+objetive to demonstrate how cloud computing may ease the process of kicking
+off and scaling applications in the context of startups.
+</p>
+
+<p align="justify">
+Each participant had an OpenStack cloud avaialable to them for testing
+purposes, being able to see by themselves how cloud computing can make
+simple the process of setting up an infrastucture for running apps.
+</p>
