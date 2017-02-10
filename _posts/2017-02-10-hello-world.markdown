@@ -1,6 +1,6 @@
 ---
 title:  "Hello World!"
-date:   2017-01-01 17:00:00
+date:   2017-02-10 00:00:00
 description: "Hello World, this is my blog!"
 type: blog
 ---
