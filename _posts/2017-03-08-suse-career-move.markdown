@@ -1,7 +1,7 @@
 ---
 title:  "The next step"
 date:   2017-03-08 00:00:00
-description: "Leaving HPE. Joining SUSE."
+description: "Leaving HPE. Joining SUSE. Thank you DPS!"
 type: blog
 ---
 
