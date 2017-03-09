@@ -1,7 +1,7 @@
 ---
 title:  "The next step"
 date:   2017-03-08 00:00:00
-description: "Leaving HPE. Joining SUSE. Thank you DPS!"
+description: "Leaving HPE. Joining SUSE."
 type: blog
 ---
 
@@ -13,10 +13,9 @@ let everyone know that I am very proud of the time I spent there.
 </p>
 
 <p align="justify">
-In HPE, I was part of a team called the Dead Parrot Society (DPS),
-where I was trusted to prioritize my own work with the goal to make the
-OpenStack community better, as part of the HPE's commitment to open
-source.
+In HPE, I was part of a team where I was trusted to prioritize my own
+work with the goal to make the OpenStack community better, as part of
+the HPE's commitment to open source.
 </p>
 
 <p align="justify">
@@ -37,10 +36,10 @@ support of my team.
 </p>
 
 <p align="justify">
-Besides being a team full of awesome people, the DPS is a place where
+Besides being a team full of awesome people, it is a place where
 good values are cultivated: collaboration, proactiveness, trust,
 transparency, hardwork, etc. These I will for sure carry for the rest
-of my life. I am lucky to have had the change to be part of this team.
+of my life. I am lucky to have had the chance to be part of this team.
 </p>
 
 <p align="justify">
@@ -68,7 +67,12 @@ appreciate it.
 </p>
 
 <p align="justify">
-Again, thank you.
+Thank you Anita Kuno for all your early advice and for helping me to
+get in this team.
+</p>
+
+<p align="justify">
+Again, thank you all.
 </p>
 
 <p align="center">See you all around!</p>
