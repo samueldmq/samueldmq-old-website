@@ -61,7 +61,7 @@ being awesome managers during this part of my journey.
 </p>
 
 <p align="justify">
-In terms of helping me to draw my career plan and giving me advices,
+In terms of helping me to draw my career plan and giving me advice,
 thank you again Vicky and Allison for your support and time, I really
 appreciate it.
 </p>
