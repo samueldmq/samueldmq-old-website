@@ -1,0 +1,31 @@
+---
+title:  "FOSSAsia"
+date:   2017-03-18 00:00:00
+description: "Non-native English speakers in Open Source communities: A True Story"
+type: talk
+---
+
+<p align="justify">
+FOSSASIA is the premier Free and Open Source technology organization in Asia for
+developers, designers, start-ups, and contributors. This annual FOSSASIA summit
+took place in the Science Centre of Singapore.
+</p>
+
+<p align="justify">
+In collaboration with two colleages, Masayuki Igawa and Dong Ma, this talk shared
+our experiences as non-native English speakers in open source communities where
+English is the official language, more specifically highlighting what have worked
+for us while working in the OpenStack community.
+</p>
+
+<p align="justify">
+This talk enumerated a few communication and cultural challenges, as well as
+what we have done to overcome them. In addition, a few tips were given in
+order to ease the process of onboarding newcomers in free and opensource
+communities, specially if they are non-native English speakers.
+</p>
+
+<p align="justify">
+The talk was recorded and is available on
+<a href="https://www.youtube.com/watch?v=vP3r-Njpung">youtube</a>.
+</p>
