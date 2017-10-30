@@ -2,7 +2,7 @@
 title:  "Queens PTG"
 date:   2017-09-16 00:00:00
 description: "Project Teams Gathering at Denver"
-type: blog
+type: ...
 ---
 
 <p align="justify">
